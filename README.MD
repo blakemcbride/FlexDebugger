@@ -80,4 +80,4 @@ for `throw new Error("message")`
     Debugger.throwError(module, location, msg=null)
     
 
-## Home for this package is:  [https://github.com/blakemcbride/FlexDebugger](https://github.com/blakemcbride/FlexDebugger)
+### Home for this package is:  [https://github.com/blakemcbride/FlexDebugger](https://github.com/blakemcbride/FlexDebugger)
