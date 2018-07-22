@@ -54,6 +54,8 @@ If you want to find a module's setting, use:
 
 In what follows:
 
+Element | Type | Description
+------- | ---- | -----------
 level | number | an integer, 0 through 3
 module | string | name of module or class
 location | string | method name + optional space and position number
